@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:background="?android:attr/selectableItemBackground"
+          android:layout_width="match_parent"
+          android:layout_height="45dp"
+          android:clickable="true"
+          android:focusable="true"
+          android:gravity="center_vertical"
+          android:paddingLeft="9dp"
+          android:textColor="#222"
+          android:textSize="15sp"
+          tools:text="我是文字">
+
+</TextView>
