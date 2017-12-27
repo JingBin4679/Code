@@ -2,5 +2,9 @@
     {
         "name": "图片重用",
         "clazz": "com.easedroid.code.fragments.BitmapReuseFragment"
+    },
+    {
+        "name": "动画",
+        "clazz": "com.easedroid.code.fragments.ValueAnimationFragment"
     }
 ]
