@@ -65,7 +65,7 @@ public class ValueAnimationFragment extends BaseFragment implements View.OnClick
         AnimatorSet animSet = new AnimatorSet();
         animSet.setDuration(2000);
         animSet.setInterpolator(new AccelerateDecelerateInterpolator());
-        //两个动画同时执行
+        //三个动画同时执行
         animSet.playTogether(rotation, alpha, scale);
         animSet.start();
     }
