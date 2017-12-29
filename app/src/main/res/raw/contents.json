@@ -6,5 +6,9 @@
     {
         "name": "动画",
         "clazz": "com.easedroid.code.fragments.ValueAnimationFragment"
+    },
+    {
+        "name": "播放器动画",
+        "clazz": "com.easedroid.code.fragments.AnimateVideoViewFragment"
     }
 ]
